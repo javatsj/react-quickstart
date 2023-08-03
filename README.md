@@ -14,5 +14,8 @@ yarn install
 ## 项目启动
 yarn start
 
+## 启动成功可以看到如下
+![Alt text](00-1.png)
+
 ## 项目打包
 yarn build
