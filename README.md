@@ -8,21 +8,20 @@
 React + less + webpack
 
 ## 项目运行
---- 
+
     yarn install
----
+
 
 ## 项目启动
---- 
+
     yarn start
---- 
+
 
 ## 启动成功可以看到如下
 ![Alt text](00-1.png)
 
 ## 项目打包
---- 
+
     yarn build
---- 
 ## 打包成功，可以看到会出现一个build文件夹，其内容就是打包的结果
 ![Alt text](00-2.png)
